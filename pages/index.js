@@ -79,7 +79,7 @@ const Index = () => (
           </div>
 
           {projects.map(({ name, description, image }, index) => (
-            <div className="col-md-4 py-3">
+            <div className="col-md-4 py-3" key={index}>
               <div className="card h-100">
                 <img src={`./images/${image}`} alt="portfolio" />
                 <div className="card-body">

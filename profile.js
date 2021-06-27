@@ -61,3 +61,26 @@ export const projects = [
     image: 'portfolio6.jpeg'
   }
 ];
+
+export const posts = [
+  {
+    title: 'React',
+    content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum dicta qui, molestiae repudiandae excepturi numquam voluptatem minima suscipit provident eaque id vero nisi rerum maiores debitis, mollitia vel a? Accusamus!',
+    imageUrl: 'https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png'
+  },
+  {
+    title: 'Angular',
+    content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum dicta qui, molestiae repudiandae excepturi numquam voluptatem minima suscipit provident eaque id vero nisi rerum maiores debitis, mollitia vel a? Accusamus!',
+    imageUrl: 'https://victorroblesweb.es/wp-content/uploads/2017/04/angular4.png'
+  },
+  {
+    title: 'Next',
+    content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum dicta qui, molestiae repudiandae excepturi numquam voluptatem minima suscipit provident eaque id vero nisi rerum maiores debitis, mollitia vel a? Accusamus!',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png'
+  },
+  {
+    title: 'Vue',
+    content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum dicta qui, molestiae repudiandae excepturi numquam voluptatem minima suscipit provident eaque id vero nisi rerum maiores debitis, mollitia vel a? Accusamus!',
+    imageUrl: 'https://miro.medium.com/max/3920/1*oZqGznbYXJfBlvGp5gQlYQ.jpeg'
+  }
+];
