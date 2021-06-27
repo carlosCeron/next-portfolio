@@ -10,8 +10,6 @@ const Post = () => {
 
   const {title, content, imageUrl} = posts.filter(post => post.title === router.query.title)[0];
 
-  console.log(title, content, imageUrl);
-
   return (
     <Layout>
       <div className="text-center">
